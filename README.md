@@ -182,17 +182,7 @@ The analysis pipeline generates:
 - `heatmap_top_deps.pdf` - Expression heatmap
 
 ---
-
-## Citation
-
-If you use this analysis pipeline or adapt the methods, please cite:
-
-```
-Mitchell, S.J., Chen, D.K., Rodriguez, M.L., et al. (2025). 
-Multiscale Proteomic Network Modeling Reveals Key Molecular 
-Drivers and Therapeutic Targets in Parkinson's Disease Pathogenesis. 
-[Journal Name], [Volume], [Pages].
-```
+`
 
 ---
 
@@ -240,7 +230,6 @@ We acknowledge the contributions of:
 - Parkinson's Disease patient donors and families
 - PPMI, AMP-PD, and GNPC consortiums
 - Computational resources providers
-- Funding agencies (NIH, Michael J. Fox Foundation)
 
 ---
 
@@ -290,16 +279,9 @@ PD_Proteomics_Project/
 ## Contact Information
 
 **Lead Contact:**
-Dr. Michael A. Thompson
-Department of Systems Biology
-Harvard Medical School
-Email: michael.thompson@harvard.edu
+Zhaohui Man
+Email: manzhaohui1975@gmail.com
 
-**Data Availability:**
-www.pd-proteome-network.org
-
-**Code Repository:**
-github.com/pd-proteomics/analysis
 
 ---
 
