@@ -1,7 +1,13 @@
+
 # Parkinson's Disease Proteomics Research Paper Package
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+![R](https://img.shields.io/badge/R-4.0+-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 ## Complete Analysis Pipeline and Manuscript
 
----
 
 ## Overview
 
@@ -297,4 +303,4 @@ github.com/pd-proteomics/analysis
 
 ---
 
-*Last Updated: January 2025*
+*Last Updated: Nov 2025*
